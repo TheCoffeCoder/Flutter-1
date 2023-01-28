@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346840154618",
+    "project_id": "newsfreak-9ef9c",
+    "storage_bucket": "newsfreak-9ef9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346840154618:android:faf99bb0f4924874b1e443",
+        "android_client_info": {
+          "package_name": "com.raihan.newsfreak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346840154618-bdtrtm354j0tsq79uc1fd3mmpmpaq5cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQoxCItz0UXO4cBqaeEGDVkifrIHQmcZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346840154618-bdtrtm354j0tsq79uc1fd3mmpmpaq5cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
